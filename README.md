@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:fire:
+:fire: 这一切都会过去的！
 
 Here are some ideas to get you started:
 
