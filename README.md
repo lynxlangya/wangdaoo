@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="http://cdn.wangdaoo.com/vscode.png"></code>
 <code><img height="20" src="http://cdn.wangdaoo.com/linux.png"></code>
 <code><img height="20" src="http://cdn.wangdaoo.com/nginx-1.png"></code>
+<code><img height="20" src="http://cdn.wangdaoo.com/jenkins-icon.png"></code>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dracula)](https://github.com/wangdaoo)
 
