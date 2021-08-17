@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: wangdaoo@yeah.net
+- :iphone: WeChat: WANG_YUN_FAN
 - 😄 Pronouns: Caeser
 - ⚡ Fun fact: In me the tiger sniffs the rose
 
