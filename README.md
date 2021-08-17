@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=radical)](https://github.com/wangdaoo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dark)](https://github.com/wangdaoo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangdaoo&layout=compact)](https://github.com/wangdaoo)
 
