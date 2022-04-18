@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="http://cdn.wangdaoo.com/nginx-1.png"></code>
 <code><img height="20" src="http://cdn.wangdaoo.com/jenkins-logo.png"></code>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dracula)](https://github.com/wangdaoo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dracula)![bg](http://cdn.wangdaoo.com/saly.png?imageView2/2/w/300/h/200)](https://github.com/wangdaoo)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangdaoo&layout=compact&theme=dracula&card_width=440)](https://github.com/wangdaoo) -->
 
