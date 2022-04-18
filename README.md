@@ -1,4 +1,4 @@
-## Hi there 👋
+<h3 align="center">Welcome to my Github page 👋</h3>
 
 :fire: 这一切都会过去的！
 
@@ -14,25 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Keter
 - ⚡ Fun fact: In me the tiger sniffs the rose
 
-![WeChat](https://img.shields.io/badge/WeChat-WANG__YUN__FAN-green)
-![Email](https://img.shields.io/badge/Email-wangdaoo%40yeah.net-red)
+<div align="center">
+  <img src="https://img.shields.io/badge/WeChat-WANG__YUN__FAN-green">
+  <img src="https://img.shields.io/badge/Email-wangdaoo%40yeah.net-red">
+</div>
+<br />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<div align="center">
+ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="http://cdn.wangdaoo.com/vue.png"></code>
 <code><img height="20" src="https://flutterchina.club/images/flutter-mark-square-100.png"></code>
 <code><img height="20" src="http://cdn.wangdaoo.com/xcx.png"></code>  
+</div>
 
-<code><img height="20" src="http://cdn.wangdaoo.com/git.png"></code>
-<code><img height="20" src="http://cdn.wangdaoo.com/vscode.png"></code>
-<code><img height="20" src="http://cdn.wangdaoo.com/linux.png"></code>
-<code><img height="20" src="http://cdn.wangdaoo.com/docker.png"></code>
-<code><img height="20" src="http://cdn.wangdaoo.com/nginx-1.png"></code>
-<code><img height="20" src="http://cdn.wangdaoo.com/jenkins-logo.png"></code>
+<div align="center">
+  <code><img height="20" src="http://cdn.wangdaoo.com/git.png"></code>
+  <code><img height="20" src="http://cdn.wangdaoo.com/vscode.png"></code>
+  <code><img height="20" src="http://cdn.wangdaoo.com/linux.png"></code>
+  <code><img height="20" src="http://cdn.wangdaoo.com/docker.png"></code>
+  <code><img height="20" src="http://cdn.wangdaoo.com/nginx-1.png"></code>
+  <code><img height="20" src="http://cdn.wangdaoo.com/jenkins-logo.png"></code>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dracula)![bg](http://cdn.wangdaoo.com/saly.png?imageView2/2/w/300/h/200)](https://github.com/wangdaoo)
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dracula">
+</div>
+<div align="center">
+  <img src="http://cdn.wangdaoo.com/saly.png?imageView2/2/w/300/h/200">
+</div>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dracula)![bg](http://cdn.wangdaoo.com/saly.png?imageView2/2/w/300/h/200)](https://github.com/wangdaoo) -->
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangdaoo&layout=compact&theme=dracula&card_width=440)](https://github.com/wangdaoo) -->
 
