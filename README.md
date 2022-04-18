@@ -1,18 +1,16 @@
 <h3 align="center">Welcome to my Github page 👋</h3>
 
-:fire: 这一切都会过去的！
+<br />
+<br />
+<br />
+𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 前端扫地僧
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: wangdaoo@yeah.net
-- :iphone: WeChat: WANG_YUN_FAN
-- 😄 Pronouns: Keter
-- ⚡ Fun fact: In me the tiger sniffs the rose
 
 <div align="center">
   <img src="https://img.shields.io/badge/WeChat-WANG__YUN__FAN-green">
@@ -21,35 +19,33 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="http://cdn.wangdaoo.com/vue.png"></code>
-<code><img height="20" src="https://flutterchina.club/images/flutter-mark-square-100.png"></code>
-<code><img height="20" src="http://cdn.wangdaoo.com/xcx.png"></code>  
+  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next-black?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flutter-0086e7?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-09b955?style=flat&logo=wechat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Sass-bf608e?style=flat&logo=sass&logoColor=white">
 </div>
 
 <div align="center">
-  <code><img height="20" src="http://cdn.wangdaoo.com/git.png"></code>
-  <code><img height="20" src="http://cdn.wangdaoo.com/vscode.png"></code>
-  <code><img height="20" src="http://cdn.wangdaoo.com/linux.png"></code>
-  <code><img height="20" src="http://cdn.wangdaoo.com/docker.png"></code>
-  <code><img height="20" src="http://cdn.wangdaoo.com/nginx-1.png"></code>
-  <code><img height="20" src="http://cdn.wangdaoo.com/jenkins-logo.png"></code>
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx">
+  <img src="https://img.shields.io/badge/-Linux-fcbf21?style=flat&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel">
+  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Jenkins-b3392d?style=flat&logo=jenkins&logoColor=white">
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dracula">
-</div>
-<div align="center">
   <img src="http://cdn.wangdaoo.com/saly.png?imageView2/2/w/300/h/200">
 </div>
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdaoo&count_private=true&show_icons=true&theme=dracula)![bg](http://cdn.wangdaoo.com/saly.png?imageView2/2/w/300/h/200)](https://github.com/wangdaoo) -->
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangdaoo&layout=compact&theme=dracula&card_width=440)](https://github.com/wangdaoo) -->
 
