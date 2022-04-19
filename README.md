@@ -1,9 +1,13 @@
-<h3 align="center">Welcome to my Github page 👋</h3>
+<h3 align="center">𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝕲𝖎𝖙𝖍𝖚𝖇 𝖕𝖆𝖌𝖊 👋</h3>
 
 <br />
 <br />
 <br />
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+<br />
+<br />
+𝓚𝓮𝓮𝓹 𝓖𝓸𝓲𝓷𝓰!
+<br />
 <br />
 <br />
 <br />
