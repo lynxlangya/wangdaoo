@@ -35,9 +35,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx">
-  <img src="https://img.shields.io/badge/-Linux-fcbf21?style=flat&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel">
+  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-fcbf21?style=flat&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
   <img src="https://img.shields.io/badge/-Jenkins-b3392d?style=flat&logo=jenkins&logoColor=white">
