@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Next-black?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Flutter-0086e7?style=flat&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-09b955?style=flat&logo=wechat&logoColor=white">
+  <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-bf608e?style=flat&logo=sass&logoColor=white">
 </div>
 
